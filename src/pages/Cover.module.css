@@ -1,0 +1,420 @@
+.visualTexture {
+  position: absolute;
+  top: 433px;
+  left: 950px;
+  font-size: 178.25px;
+  font-family: var(--font-bebas-neue);
+  color: rgba(228, 228, 228, 0.28);
+}
+.groupChild {
+  position: absolute;
+  top: calc(50% - 370.31px);
+  left: calc(50% - 370.31px);
+  width: 740.62px;
+  height: 555.08px;
+}
+.symbolAc1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.symbolAc {
+  position: absolute;
+  top: 90.8px;
+  left: 90.79px;
+  width: 326.28px;
+  height: 326.28px;
+  display: none;
+}
+.groupItem,
+.groupParent {
+  position: absolute;
+  top: calc(50% + 101.3px);
+  left: calc(50% - 507.99px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupItem {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 370.31px);
+  width: 740.62px;
+  height: 740.62px;
+}
+.groupContainer,
+.groupDiv,
+.groupIcon {
+  position: absolute;
+  top: calc(50% - 109.22px);
+  left: calc(50% - 507.99px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupDiv,
+.groupIcon {
+  top: calc(50% - 286.31px);
+}
+.groupIcon {
+  top: calc(50% - 267.46px);
+  left: calc(50% - 370.31px);
+  width: 740.62px;
+  height: 637.77px;
+}
+.symbolAc6 {
+  position: absolute;
+  top: 90.81px;
+  left: 90.79px;
+  width: 326.28px;
+  height: 326.28px;
+  display: none;
+}
+.groupChild1,
+.groupParent1,
+.groupParent2 {
+  position: absolute;
+  top: calc(50% - 526.46px);
+  left: calc(50% - 507.99px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild1,
+.groupParent2 {
+  top: calc(50% + 0.07px);
+  left: calc(50% - 370.31px);
+  width: 740.62px;
+}
+.groupParent2 {
+  top: calc(50% - 794px);
+  left: calc(50% - 507.99px);
+  width: 507.85px;
+}
+.groupChild7,
+.groupParent3,
+.groupParent4,
+.groupParent5,
+.groupParent6,
+.groupParent7 {
+  position: absolute;
+  top: calc(50% + 101.3px);
+  left: calc(50% - 678.62px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild7,
+.groupParent4,
+.groupParent5,
+.groupParent6,
+.groupParent7 {
+  top: calc(50% - 109.22px);
+}
+.groupChild7,
+.groupParent5,
+.groupParent6,
+.groupParent7 {
+  top: calc(50% - 286.31px);
+}
+.groupChild7,
+.groupParent6,
+.groupParent7 {
+  top: calc(50% - 526.46px);
+}
+.groupChild7,
+.groupParent7 {
+  top: calc(50% - 794px);
+}
+.groupChild7 {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 365.72px);
+  width: 736.03px;
+  height: 555.08px;
+}
+.groupChild8,
+.groupParent8 {
+  position: absolute;
+  top: calc(50% + 101.3px);
+  left: calc(50% - 848.2px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild8 {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 365.72px);
+  width: 736.03px;
+  height: 740.62px;
+}
+.groupParent10,
+.groupParent9 {
+  position: absolute;
+  top: calc(50% - 109.22px);
+  left: calc(50% - 848.2px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupParent10 {
+  top: calc(50% - 286.31px);
+}
+.groupChild10,
+.groupParent11 {
+  position: absolute;
+  top: calc(50% - 267.46px);
+  left: calc(50% - 365.72px);
+  width: 736.03px;
+  height: 637.77px;
+}
+.groupParent11 {
+  top: calc(50% - 526.46px);
+  left: calc(50% - 848.2px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild11,
+.groupChild12,
+.groupParent12 {
+  position: absolute;
+  top: calc(50% + 0.07px);
+  left: calc(50% - 365.72px);
+  width: 736.03px;
+  height: 507.85px;
+}
+.groupChild12,
+.groupParent12 {
+  top: calc(50% - 794px);
+  left: calc(50% - 848.2px);
+  width: 507.85px;
+}
+.groupChild12 {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 196.14px);
+  width: 566.45px;
+  height: 555.08px;
+}
+.symbolAc30 {
+  position: absolute;
+  top: 90.8px;
+  left: 90.78px;
+  width: 326.28px;
+  height: 326.28px;
+  display: none;
+}
+.groupChild13,
+.groupParent13 {
+  position: absolute;
+  top: calc(50% + 101.3px);
+  left: calc(50% - 1017.79px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild13 {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 196.14px);
+  width: 566.45px;
+  height: 740.62px;
+}
+.groupChild15,
+.groupParent14,
+.groupParent15 {
+  position: absolute;
+  top: calc(50% - 109.22px);
+  left: calc(50% - 1017.79px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild15,
+.groupParent15 {
+  top: calc(50% - 286.31px);
+}
+.groupChild15 {
+  top: calc(50% - 267.46px);
+  left: calc(50% - 196.14px);
+  width: 566.45px;
+  height: 637.77px;
+}
+.symbolAc36 {
+  position: absolute;
+  top: 90.81px;
+  left: 90.78px;
+  width: 326.28px;
+  height: 326.28px;
+  display: none;
+}
+.groupChild16,
+.groupParent16,
+.groupParent17 {
+  position: absolute;
+  top: calc(50% - 526.46px);
+  left: calc(50% - 1017.79px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild16,
+.groupParent17 {
+  top: calc(50% + 0.07px);
+  left: calc(50% - 196.14px);
+  width: 566.45px;
+}
+.groupParent17 {
+  top: calc(50% - 794px);
+  left: calc(50% - 1017.79px);
+  width: 507.85px;
+}
+.groupChild17,
+.groupChild18,
+.groupParent18 {
+  position: absolute;
+  top: calc(50% - 370.31px);
+  left: calc(50% - 25.51px);
+  width: 507.85px;
+  height: 555.08px;
+}
+.groupChild18,
+.groupParent18 {
+  top: calc(50% + 101.3px);
+  left: calc(50% - 1188.42px);
+  height: 507.85px;
+}
+.groupChild18 {
+  top: calc(50% - 370.31px);
+  left: calc(50% - 25.51px);
+  height: 740.62px;
+}
+.groupChild20,
+.groupParent19,
+.groupParent20 {
+  position: absolute;
+  top: calc(50% - 109.22px);
+  left: calc(50% - 1188.42px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild20,
+.groupParent20 {
+  top: calc(50% - 286.31px);
+}
+.groupChild20 {
+  top: calc(50% - 267.46px);
+  left: calc(50% - 25.51px);
+  height: 637.77px;
+}
+.groupChild21,
+.groupParent21,
+.groupParent22 {
+  position: absolute;
+  top: calc(50% - 526.46px);
+  left: calc(50% - 1188.42px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild21,
+.groupParent22 {
+  top: calc(50% + 0.07px);
+  left: calc(50% - 25.51px);
+}
+.groupParent22 {
+  top: calc(50% - 794px);
+  left: calc(50% - 1188.42px);
+}
+.groupChild22,
+.groupChild23,
+.groupParent23 {
+  position: absolute;
+  top: calc(50% - 370.31px);
+  left: calc(50% + 144.07px);
+  width: 507.85px;
+  height: 555.08px;
+}
+.groupChild23,
+.groupParent23 {
+  top: calc(50% + 101.3px);
+  left: calc(50% - 1358px);
+  height: 507.85px;
+}
+.groupChild23 {
+  top: calc(50% - 370.31px);
+  left: calc(50% + 144.07px);
+  height: 740.62px;
+}
+.groupChild25,
+.groupParent24,
+.groupParent25 {
+  position: absolute;
+  top: calc(50% - 109.22px);
+  left: calc(50% - 1358px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild25,
+.groupParent25 {
+  top: calc(50% - 286.31px);
+}
+.groupChild25 {
+  top: calc(50% - 267.46px);
+  left: calc(50% + 144.07px);
+  height: 637.77px;
+}
+.groupChild26,
+.groupParent26,
+.groupParent27 {
+  position: absolute;
+  top: calc(50% - 526.46px);
+  left: calc(50% - 1358px);
+  width: 507.85px;
+  height: 507.85px;
+}
+.groupChild26,
+.groupParent27 {
+  top: calc(50% + 0.07px);
+  left: calc(50% + 144.07px);
+}
+.groupParent27 {
+  top: calc(50% - 794px);
+  left: calc(50% - 1358px);
+}
+.cover {
+  position: relative;
+  background-color: #242424;
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  z-index: 1000;
+  text-align: center;
+  font-size: 122.36px;
+  color: var(--text-grey);
+  font-family: var(--font-sf-pro-display);
+}
+
+.btnMy{
+  position: relative;
+  z-index: 1000;
+}
+
+.cardscontainer {
+  position: relative;
+  z-index: 1000;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.cards {
+  position: relative;
+  z-index: 1000;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.cardsAPI{
+  position: relative;
+  z-index: 1000;
+  height: 700px;
+  font-size: 20px;
+}

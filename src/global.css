@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-display: "SF Pro Display";
+  --font-bebas-neue: "Bebas Neue";
+
+  /* font sizes */
+  --font-size-103xl-4: 122.4px;
+
+  /* Colors */
+  --text-grey: #808080;
+}
